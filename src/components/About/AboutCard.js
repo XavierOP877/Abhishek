@@ -9,29 +9,15 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Abhishek Tripathi </span>
-            from <span className="purple"> Bhubaneswar, India.</span>
-            <br />I am a junior pursuing IMSC in Maths and Computing in BIT
-            Mesra.
+            from <span className="purple"> Prayagraj, Uttar Pradesh, India.</span>
+            <br />I am a Computer Science undergraduate at Dr. APJ Abdul Kalam Technical University.
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
-          </p>
-          <ul>
-            <li className="about-activity">
-              <ImPointRight /> Playing Games
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Travelling
-            </li>
-          </ul>
+            I'm exploring Blockchain technology and building dApps in my spare time.
 
-          <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+I am skilled in JavaScript and ReactJS for Frontend, and have working experience in web design. Also proficient in Solidity and C++ and have used MERN stack for development.
+I am actively looking for Web3 Intern or Frontend Engineer positions. DM me if interested. Thanks! 😁
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
         </blockquote>
       </Card.Body>
     </Card>
